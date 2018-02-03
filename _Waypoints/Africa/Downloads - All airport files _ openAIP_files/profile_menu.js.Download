@@ -1,0 +1,29 @@
+Drupal.behaviors.profile_menu = function (context) {
+
+   $(document).ready(function() {
+
+    $( ".profile-toggle-close" ).hide();
+    $('#profile-sub').hide();
+
+    $('.profile-toggle').click(function() {
+
+	  $( ".profile-toggle" ).hide();
+         $( ".profile-toggle-close" ).show();
+//      $('#loginslider-inner').slideToggle('slow');
+        $('#profile-sub').slideDown('fast');
+            return false;
+    });
+
+    $('.profile-toggle-close').click(function() {
+
+	  $( ".profile-toggle" ).show();
+         $( ".profile-toggle-close" ).hide();
+//      $('#loginslider-inner').slideToggle('slow');
+        $('#profile-sub').slideUp('fast');
+            return false;
+    });
+
+  });
+}
+
+

@@ -1,0 +1,50 @@
+/* @group coordinate notation */
+/* Theme the coordinate input fieldset */
+#coord-notation-wrapper div.form-item {
+    display: inline;
+    float: left;
+    padding: 0 5px;
+}
+
+div#coord-notation-wrapper {
+    clear: both;
+}
+
+input#edit-set-coord {
+    float: left;
+    clear: both;
+}
+
+div#edit-coord-holder-latitude-degrees-wrapper, div#edit-coord-holder-longitude-degrees-wrapper, div#edit-coord-holder-latitude-wrapper, div#edit-coord-holder-longitude-wrapper {
+    margin-top: -7px;
+    margin-right: -15px;
+}
+
+div#edit-coord-holder-longitude-degrees-wrapper {
+    margin-right: -23px;
+}
+
+div#edit-coord-holder-longitude-degrees-wrapper, div#edit-coord-holder-longitude-wrapper {
+    margin-left: 50px;
+}
+
+/* hide diabled form items */
+#edit-coord-holder-longitude-wrapper input[disabled] {
+    display: none;
+}
+
+/* @end */
+
+/* @group openlayers */
+
+#popup {
+    opacity: 1;
+    color: white;
+}
+
+.olPopupCloseBox {
+    background: none !important;
+    cursor: pointer !important;
+}
+
+/* @end */

@@ -1,0 +1,12 @@
+Drupal.behaviors.image_tabs = function (context) {
+
+    $(document).ready(function () {
+
+        if (document.getElementById('image-tabs') != null) {
+            $(function () {
+                $("#image-tabs").tabs();
+            });
+        }
+
+    });
+}

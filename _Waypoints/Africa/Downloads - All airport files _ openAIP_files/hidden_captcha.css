@@ -1,0 +1,4 @@
+.hidden-captcha,
+.container-inline div.hidden-captcha {
+  display: none;
+}

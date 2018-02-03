@@ -1,0 +1,27 @@
+Drupal.behaviors.approved_slider = function (context) {
+
+   $(document).ready(function() {
+
+    $( "#approved-toggle-hide" ).hide();
+    $('.approved-info-text').hide();
+
+    $('#approved-toggle-show').click(function() {
+
+	  $( "#approved-toggle-show" ).hide();
+         $( "#approved-toggle-hide" ).show();
+         $("#approved-container").addClass("approved-active");
+        $('.approved-info-text').slideDown('slow');
+            return false;
+    });
+
+    $('#approved-toggle-hide').click(function() {
+
+	  $( "#approved-toggle-show" ).show();
+         $( "#approved-toggle-hide" ).hide();
+         $("#approved-container").removeClass("approved-active");
+        $('.approved-info-text').slideUp('slow');
+            return false;
+    });
+
+  });
+}
