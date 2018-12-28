@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!--
-*  Exported on: 09.07.2018
+*  Exported on: 28.12.2018
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -24,7 +24,7 @@
 *  POSSIBILITY OF SUCH DAMAGES.
 -->
 
-<OPENAIP VERSION="f1b61ee97c9ad5b99a139dee9cbac57732c9ba33" DATAFORMAT="1.1">
+<OPENAIP VERSION="0d481ca2883e3f19c9152d1d3d8d7ae3b6bc7aa6" DATAFORMAT="1.1">
 <AIRSPACES>
 <ASP CATEGORY="D">
   <VERSION>9a5ff5c015667b989d5795363a530ae7552bbc6a</VERSION>
