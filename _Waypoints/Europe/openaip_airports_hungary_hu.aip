@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!--
-*  Exported on: 03.02.2018
+*  Exported on: 28.12.2018
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -24,7 +24,7 @@
 *  POSSIBILITY OF SUCH DAMAGES.
 -->
 
-<OPENAIP VERSION="1786539" DATAFORMAT="1.1">
+<OPENAIP VERSION="2105685" DATAFORMAT="1.1">
 <WAYPOINTS>
 <AIRPORT TYPE="GLIDING">
   <COUNTRY>HU</COUNTRY>
@@ -298,13 +298,13 @@
     <ELEV UNIT="M">109.4232</ELEV>
   </GEOLOCATION>
   <RADIO CATEGORY="INFORMATION">
-    <FREQUENCY>125.9</FREQUENCY>
+    <FREQUENCY>125.900</FREQUENCY>
     <TYPE>OTHER</TYPE>
     <TYPESPEC>AFIS</TYPESPEC>
     <DESCRIPTION>Debrecen INFO</DESCRIPTION>
   </RADIO>
   <RWY OPERATIONS="ACTIVE">
-    <NAME>05R/23L</NAME>
+    <NAME>04R/22L</NAME>
     <SFC>CONC</SFC>
     <LENGTH UNIT="M">2498.1408</LENGTH>
     <WIDTH UNIT="M">39.9288</WIDTH>
@@ -693,9 +693,9 @@
     <ELEV UNIT="M">217.932</ELEV>
   </GEOLOCATION>
   <RADIO CATEGORY="COMMUNICATION">
-    <FREQUENCY>118.650</FREQUENCY>
+    <FREQUENCY>119.050</FREQUENCY>
     <TYPE>INFO</TYPE>
-    <DESCRIPTION>Gödöllő INFO</DESCRIPTION>
+    <DESCRIPTION>Gödöllő TRAFFIC</DESCRIPTION>
   </RADIO>
   <RWY OPERATIONS="ACTIVE">
     <NAME>13/31</NAME>
