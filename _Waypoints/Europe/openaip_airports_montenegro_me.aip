@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!--
-*  Exported on: 03.02.2018
+*  Exported on: 28.12.2018
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -24,7 +24,7 @@
 *  POSSIBILITY OF SUCH DAMAGES.
 -->
 
-<OPENAIP VERSION="1786539" DATAFORMAT="1.1">
+<OPENAIP VERSION="2105685" DATAFORMAT="1.1">
 <WAYPOINTS>
 <AIRPORT TYPE="AF_CIVIL">
   <COUNTRY>ME</COUNTRY>

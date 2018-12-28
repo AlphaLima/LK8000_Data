@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!--
-*  Exported on: 03.02.2018
+*  Exported on: 28.12.2018
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -24,7 +24,7 @@
 *  POSSIBILITY OF SUCH DAMAGES.
 -->
 
-<OPENAIP VERSION="1786539" DATAFORMAT="1.1">
+<OPENAIP VERSION="2105685" DATAFORMAT="1.1">
 <WAYPOINTS>
 <AIRPORT TYPE="LIGHT_AIRCRAFT">
   <COUNTRY>RS</COUNTRY>
@@ -882,7 +882,7 @@
     <TYPE>INFO</TYPE>
   </RADIO>
   <RWY OPERATIONS="TEMPORARILY CLOSED">
-    <NAME>15L / 33R</NAME>
+    <NAME>15L/33R</NAME>
     <SFC>GRAS</SFC>
     <LENGTH UNIT="M">1000</LENGTH>
     <WIDTH UNIT="M">37</WIDTH>
@@ -892,7 +892,7 @@
     </DIRECTION>
   </RWY>
   <RWY OPERATIONS="ACTIVE">
-    <NAME>15R / 33L</NAME>
+    <NAME>15R/33L</NAME>
     <SFC>GRAS</SFC>
     <LENGTH UNIT="M">1000</LENGTH>
     <WIDTH UNIT="M">37</WIDTH>
@@ -1467,8 +1467,10 @@
     <NAME>17/35</NAME>
     <SFC>ASPH</SFC>
     <LENGTH UNIT="M">2510</LENGTH>
-    <WIDTH UNIT="M">30</WIDTH>
-    <DIRECTION TC="170">
+    <WIDTH UNIT="M">45</WIDTH>
+    <DIRECTION TC="173">
+    </DIRECTION>
+    <DIRECTION TC="353">
     </DIRECTION>
   </RWY>
 </AIRPORT>
