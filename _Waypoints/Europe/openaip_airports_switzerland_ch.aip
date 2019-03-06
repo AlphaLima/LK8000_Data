@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!--
-*  Exported on: 28.12.2018
+*  Exported on: 06.03.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -24,7 +24,7 @@
 *  POSSIBILITY OF SUCH DAMAGES.
 -->
 
-<OPENAIP VERSION="2105685" DATAFORMAT="1.1">
+<OPENAIP VERSION="2173813" DATAFORMAT="1.1">
 <WAYPOINTS>
 <AIRPORT TYPE="AD_MIL">
   <COUNTRY>CH</COUNTRY>
@@ -604,7 +604,7 @@
     <ELEV UNIT="M">535.8384</ELEV>
   </GEOLOCATION>
   <RADIO CATEGORY="COMMUNICATION">
-    <FREQUENCY>118.175</FREQUENCY>
+    <FREQUENCY>118.180</FREQUENCY>
     <TYPE>GLIDING</TYPE>
   </RADIO>
   <RWY OPERATIONS="ACTIVE">
