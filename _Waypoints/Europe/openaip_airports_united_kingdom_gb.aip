@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!--
-*  Exported on: 06.03.2019
+*  Exported on: 29.03.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -24,7 +24,7 @@
 *  POSSIBILITY OF SUCH DAMAGES.
 -->
 
-<OPENAIP VERSION="2173813" DATAFORMAT="1.1">
+<OPENAIP VERSION="2196989" DATAFORMAT="1.1">
 <WAYPOINTS>
 <AIRPORT TYPE="APT">
   <COUNTRY>GB</COUNTRY>
@@ -5808,15 +5808,6 @@
     </DIRECTION>
   </RWY>
 </AIRPORT>
-<AIRPORT TYPE="LIGHT_AIRCRAFT">
-  <COUNTRY>GB</COUNTRY>
-  <NAME>GLEBE FARM</NAME>
-  <GEOLOCATION>
-    <LAT>53.006111111111</LAT>
-    <LON>-0.68722222222222</LON>
-    <ELEV UNIT="M">20</ELEV>
-  </GEOLOCATION>
-</AIRPORT>
 <AIRPORT TYPE="AF_CIVIL">
   <COUNTRY>GB</COUNTRY>
   <NAME>GLEBE FARM</NAME>
@@ -5835,6 +5826,15 @@
     <DIRECTION TC="220">
     </DIRECTION>
   </RWY>
+</AIRPORT>
+<AIRPORT TYPE="LIGHT_AIRCRAFT">
+  <COUNTRY>GB</COUNTRY>
+  <NAME>GLEBE FARM</NAME>
+  <GEOLOCATION>
+    <LAT>53.006111111111</LAT>
+    <LON>-0.68722222222222</LON>
+    <ELEV UNIT="M">20</ELEV>
+  </GEOLOCATION>
 </AIRPORT>
 <AIRPORT TYPE="AF_CIVIL">
   <COUNTRY>GB</COUNTRY>

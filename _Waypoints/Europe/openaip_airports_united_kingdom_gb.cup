@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 06.03.2019
+*  Exported on: 29.03.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -168,8 +168,8 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "GIGHA","GIGHA",GB,5539.267N,00545.417W,9.0m,2,70,720m,"",""
 "GLASGOW","EGPF",GB,5552.320N,00425.980W,8.0m,5,46,2665m,"118.805",""
 "GLASSONBY","GLASS",GB,5444.283N,00239.117W,182.0m,2,180,450m,"",""
-"GLEBE FARM","GLEBE",GB,5300.367N,00041.233W,20.0m,5,,,"",""
 "GLEBE FARM","GLEBE",GB,5212.033N,00121.900W,105.0m,2,40,450m,"",""
+"GLEBE FARM","GLEBE",GB,5300.367N,00041.233W,20.0m,5,,,"",""
 "GLENFORSA","GLENF",GB,5631.080N,00554.840W,5.0m,2,80,780m,"",""
 "GLIDDEN FARM","GLIDD",GB,5056.050N,00103.300W,123.0m,2,50,250m,"",""
 "GLOUCESTERSHIRE","EGBJ",GB,5153.650N,00210.033W,31.0m,5,84,1419m,"122.905",""

@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 06.03.2019
+*  Exported on: 29.03.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -32,7 +32,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "BUDEL","EHBD",NL,5115.267N,00536.050E,35.0m,5,30,1199m,"122.155",""
 "CASTRICUM","CASTR",NL,5232.200N,00437.433E,3.0m,4,90,660m,"123.500",""
 "DEELEN AIR BASE","EHDL",NL,5203.636N,00552.386E,48.0m,5,20,2950m,"129.930",""
-"DEN HEELDER/DE KOOY","EHKD",NL,5255.417N,00446.833E,1.0m,5,34,1275m,"120.130",""
+"DEN HELDER/DE KOOY","EHKD",NL,5255.417N,00446.833E,1.0m,5,34,1275m,"120.130",""
 "DE VOORST","DE VO",NL,5241.050N,00554.717E,1.0m,4,80,1000m,"122.480",""
 "DRACHTEN","EHDR",NL,5307.083N,00607.750E,4.0m,5,77,950m,"119.655",""
 "EINDHOVEN","EHEH",NL,5127.006N,00522.470E,23.0m,5,35,3000m,"131.005",""
