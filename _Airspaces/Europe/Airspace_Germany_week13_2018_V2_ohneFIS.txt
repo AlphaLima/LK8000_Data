@@ -11,7 +11,7 @@
 *             e.g. Airspace C LFSB, LSZH, etc.
 *
 *
-* The times for the restricted and danger areas (ED-RÂ´s and ED-DÂ´s) are from German-AIP.
+* The times for the restricted and danger areas (ED-R´s and ED-D´s) are from German-AIP.
 * 
 *   e.g.    MON-THU     = this area is active from Monday till Thursday 
 *           MON-FRI+    = this area is normally active from Monday till Friday. Activation for SAT, SUN and HOL is possible by NOTAM
@@ -29,7 +29,7 @@
 *
 * changes CW20/17 -> CW27/17
 * ED-R Hamburg added
-* ED-R MÃ¼lheim/KÃ¤rlich added
+* ED-R Mülheim/Kärlich added
 * ED-R Soest added
 *
 * changes CW27/17 -> CW29/17
@@ -57,9 +57,9 @@
 * several frequencies updated to new 8.33 freq
 * FIS-sectors Langen and Muenchen merged into Langen-FIS
 * glider sectors around EDDL/EDDK and EDDM updated 
-* sectors within CTR EDAH (Mellenthin) and EDDN (FÃ¼rth) added 
+* sectors within CTR EDAH (Mellenthin) and EDDN (Fürth) added 
 * PJE area EDOD deleted
-* PJE areaÂ´s EDXU, EDWK and EDHC added
+* PJE area´s EDXU, EDWK and EDHC added
 *
 * changes CW13/18 -> 17/18
 * EDQF-Sector notification of coordinates adjusted
@@ -76,7 +76,7 @@
 *
 * changes CW37/18 -> CW05/19
 * several frequencies updated to 8.33 freq.
-* ED-R MÃ¼lheim-KÃ¤rlich deleted
+* ED-R Mülheim-Kärlich deleted
 * TMZ Wittmund added 
 * PJE EDAT + EDKB added
 *
@@ -5211,7 +5211,7 @@ DP 50:20:56 N 010:55:05 E
 
 AC RMZ
 AN RMZ EDTD 126.690
-AG Donaueschingen Info
+*AG Donaueschingen Info
 AH 1000ft AGL
 AL GND
 DP 48:03:40 N 008:26:38 E 
