@@ -1084,13 +1084,13 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 
 name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
 "Cipiers ULM",CipieULM,,4346.700N,00651.767E,1155.0m,2,0,0.0m,,,,
-"La Motte d Caire 32",BMOLaMot,,4419.517N,00601.850E,650.0m,4,359,1170.0m,"122,5","Segelflugplatz mit Windenbetrieb, Gegenanflug Ostseite, Frequenz 122.500 MHz",,
+"La Motte d Caire 32",BMOLaMot,,4419.517N,00601.850E,650.0m,4,359,1170.0m,"122.5","Segelflugplatz mit Windenbetrieb, Gegenanflug Ostseite, Frequenz 122.500 MHz",,
 "Marcoux Larry",Marcorry,,4406.883N,00616.333E,686.0m,1,,,,,,
-"PAU Aubenasson 178",PAUAuben,,4441.700N,00509.233E,250.0m,2,270,750.0m,"123,5","LFJF // Privatflugplatz. Gegenanflug auf der Suedseite. Frequenz 123.500 MHz",,
-"RHP Habere-Poche 201",RHPHaber,,4616.183N,00627.800E,1113.0m,2,194,980.0m,"122,5","UL Platz, Gegenanflug oestlich ueber Plateau, VORSICHT Paraglider",,"N092E006_RHP.JPG"
-"Seyne 138",BSESeyn,,4420.533N,00622.367E,1200.0m,4,310,900.0m,"118,45","Segelflugplatz, Gegenanflug Suedwestseite, Markierte Piste, Frequenz 118.450 MHz",,"N088E006_Seyne.JPG"
+"PAU Aubenasson 178",PAUAuben,,4441.700N,00509.233E,250.0m,2,270,750.0m,"123.5","LFJF // Privatflugplatz. Gegenanflug auf der Suedseite. Frequenz 123.500 MHz",,
+"RHP Habere-Poche 201",RHPHaber,,4616.183N,00627.800E,1113.0m,2,194,980.0m,"122.5","UL Platz, Gegenanflug oestlich ueber Plateau, VORSICHT Paraglider",,"N092E006_RHP.JPG"
+"Seyne 138",BSESeyn,,4420.533N,00622.367E,1200.0m,4,310,900.0m,"118.45","Segelflugplatz, Gegenanflug Suedwestseite, Markierte Piste, Frequenz 118.450 MHz",,"N088E006_Seyne.JPG"
 "St-Remy de Maurienne 70",OSRStRem,,4522.500N,00616.717E,450.0m,2,340,750.0m,,"Privatflugplatz, VORSICHT Talwinde, Rueckschlepp moeglich, Frequenz 123.500 MHz",,
-"VSC St Croix",V33StCro,,4346.690N,00609.585E,655.0m,2,310,700.0m,"122,5","Motorseglerplatz. Markierte Piste. Frequenz 122.500. Stromleitung und RMC Antennen im NW",,
+"VSC St Croix",V33StCro,,4346.690N,00609.585E,655.0m,2,310,700.0m,"122.5","Motorseglerplatz. Markierte Piste. Frequenz 122.500. Stromleitung und RMC Antennen im NW",,
 "Welle",Welle,,4358.333N,00558.767E,688.0m,13,,,,,,
 "Welle (ChampsaurSued)",W.(Ched),,4437.900N,00606.450E,1232.0m,13,,,,,,
 "Welle .(Champsaur)",W.(Chur),,4442.950N,00605.383E,1214.0m,13,,,,,,
@@ -2213,5 +2213,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc,userdata,pics
 "Welle Susa",W.Susa,IT,4511.000N,00701.000E,3800.0m,13,,,,"WELLE",,
 "Welle SusaOst",W.SusaOs,IT,4508.000N,00704.000E,3800.0m,13,,,,"WELLE",,
 
-
+"Quasel 30",VOCI,FR,4417.200N,00555.750E,540.0m,2,0,1160.0m,"132.015",,,
+"Not 30",EMER,FR,4417.200N,00555.750E,540.0m,2,0,1160.0m,"121.500",,,
 
