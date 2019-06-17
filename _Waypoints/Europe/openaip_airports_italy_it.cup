@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 29.03.2019
+*  Exported on: 17.06.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -135,7 +135,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "AVIOSUPERFICE FRANCA","AVIOS",IT,3911.400N,01640.260E,1330.0m,5,,,"",""
 "AVIOSUPERFICE SCALEA","LICK",IT,3946.560N,01548.600E,6.0m,5,90,1500m,"",""
 "AVIOSUPERFICIE BOGLIETTO","AVIOS",IT,4445.540N,00811.040E,185.0m,2,100,700m,"",""
-"AVIOSUPERFICIE COGLIATE","AVIOS",IT,4538.400N,00903.960E,227.0m,5,,,"",""
+"AVIOSUPERFICIE COGLIATE","AVIOS",IT,4538.417N,00903.950E,227.0m,2,180,560m,"130.000",""
 "AVIOSUPERFICIE DEI NAVIGLI","AVIOS",IT,4524.540N,00853.450E,115.0m,2,140,440m,"",""
 "AVIOSUPERFICIE DI ENVIE","AVIOS",IT,4441.760N,00724.120E,280.0m,2,170,630m,"",""
 "AVIOSUPERFICIE FALCONE","AVIOS",IT,4106.180N,01552.380E,152.0m,5,,,"",""

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!--
-*  Exported on: 29.03.2019
+*  Exported on: 17.06.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -24,7 +24,7 @@
 *  POSSIBILITY OF SUCH DAMAGES.
 -->
 
-<OPENAIP VERSION="2196989" DATAFORMAT="1.1">
+<OPENAIP VERSION="2275731" DATAFORMAT="1.1">
 <WAYPOINTS>
 <AIRPORT TYPE="LIGHT_AIRCRAFT">
   <COUNTRY>IT</COUNTRY>
@@ -1587,10 +1587,25 @@
   <COUNTRY>IT</COUNTRY>
   <NAME>AVIOSUPERFICIE COGLIATE</NAME>
   <GEOLOCATION>
-    <LAT>45.64</LAT>
-    <LON>9.066</LON>
+    <LAT>45.640277777778</LAT>
+    <LON>9.0658333333333</LON>
     <ELEV UNIT="M">227</ELEV>
   </GEOLOCATION>
+  <RADIO CATEGORY="COMMUNICATION">
+    <FREQUENCY>130.000</FREQUENCY>
+    <TYPE>INFO</TYPE>
+    <DESCRIPTION>Cogliate</DESCRIPTION>
+  </RADIO>
+  <RWY OPERATIONS="ACTIVE">
+    <NAME>18/36</NAME>
+    <SFC>GRAS</SFC>
+    <LENGTH UNIT="M">560</LENGTH>
+    <WIDTH UNIT="M">25</WIDTH>
+    <DIRECTION TC="180">
+    </DIRECTION>
+    <DIRECTION TC="360">
+    </DIRECTION>
+  </RWY>
 </AIRPORT>
 <AIRPORT TYPE="AF_CIVIL">
   <COUNTRY>IT</COUNTRY>

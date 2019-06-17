@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 29.03.2019
+*  Exported on: 17.06.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -27,8 +27,8 @@
 name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "AMELAND","EHAL",NL,5327.102N,00540.632E,3.0m,2,87,850m,"118.355",""
 "AMSTERDAM/SCHIPHOL","EHAM",NL,5218.483N,00445.850E,-3.0m,5,3,3800m,"119.230",""
-"AXEL","AXEL",NL,5115.317N,00353.600E,5.0m,4,100,1200m,"123.350",""
-"BIDDINGHUIZEN","BIDDI",NL,5225.750N,00540.450E,-4.0m,4,50,1100m,"130.125",""
+"AXEL","AXEL",NL,5115.317N,00353.600E,5.0m,4,100,1200m,"123.355",""
+"BIDDINGHUIZEN","BIDDI",NL,5225.750N,00540.450E,-4.0m,4,50,1200m,"130.130",""
 "BUDEL","EHBD",NL,5115.267N,00536.050E,35.0m,5,30,1199m,"122.155",""
 "CASTRICUM","CASTR",NL,5232.200N,00437.433E,3.0m,4,90,660m,"123.500",""
 "DEELEN AIR BASE","EHDL",NL,5203.636N,00552.386E,48.0m,5,20,2950m,"129.930",""
@@ -61,7 +61,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "TEUGE","EHTE",NL,5214.682N,00602.802E,5.0m,5,85,1199m,"121.005",""
 "TEXEL","EHTX",NL,5306.918N,00450.016E,1.0m,2,36,1109m,"119.305",""
 "TWENTHE","EHTW",NL,5216.550N,00653.350E,35.0m,5,55,2406m,"119.955",""
-"VALKENBURG","EHVB",NL,5209.966N,00425.074E,0.0m,5,50,2440m,"122.100",""
 "VEENDAM","VEEND",NL,5305.067N,00649.417E,1.0m,4,90,1210m,"122.505",""
 "VENLO","VENLO",NL,5121.833N,00612.900E,43.0m,4,90,900m,"",""
 "VLIEGVELD MIDDENMEER","VLIEG",NL,5248.900N,00501.267E,-4.0m,2,50,600m,"",""
