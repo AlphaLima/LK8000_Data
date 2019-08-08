@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 17.06.2019
+*  Exported on: 08.08.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -65,7 +65,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "SEITENSTETTEN","LOLT",AT,4803.033N,01439.717E,320.0m,2,100,830m,"123.605",""
 "SPITZERBERG","LOAS",AT,4806.100N,01656.033E,183.0m,2,150,700m,"122.080",""
 "ST. DONAT/MAIRIST","LOKR",AT,4644.483N,01424.367E,534.0m,2,60,400m,"122.180",""
-"ST. GEORGEN AM YBBSFELD","LOLG",AT,4806.183N,01456.983E,252.0m,5,37,480m,"120.455",""
+"ST. GEORGEN AM YBBSFELD","LOLG",AT,4806.183N,01457.050E,252.0m,5,37,480m,"120.455",""
 "ST. JOHANN/TIROL","LOIJ",AT,4731.233N,01226.967E,670.0m,5,129,750m,"120.355",""
 "STOCKERAU","LOAU",AT,4824.533N,01611.417E,209.0m,5,70,800m,"122.855",""
 "TRIEBEN","LOGI",AT,4729.617N,01429.800E,696.0m,5,110,785m,"122.505",""

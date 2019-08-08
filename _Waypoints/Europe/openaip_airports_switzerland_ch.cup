@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 17.06.2019
+*  Exported on: 08.08.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -66,7 +66,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "NEUCHATEL","LSGN",CH,4657.450N,00651.882E,435.0m,5,52,700m,"123.605",""
 "OLTEN","LSPO",CH,4720.483N,00753.067E,415.0m,4,53,830m,"118.780",""
 "PAYERNE","LSMP",CH,4650.550N,00654.817E,447.0m,5,49,2791m,"128.675",""
-"RARON","LSTA",CH,4618.216N,00749.398E,638.0m,5,100,842m,"129.880",""
+"RARON","LSTA",CH,4618.267N,00749.300E,638.0m,5,100,925m,"129.880",""
 "REICHENBACH","LSGR",CH,4636.816N,00740.668E,723.0m,5,38,900m,"127.705",""
 "SAANEN","LSGK",CH,4629.183N,00714.917E,1008.0m,5,79,1400m,"119.430",""
 "SAMEDAN","LSZS",CH,4632.046N,00953.046E,1707.0m,5,29,1800m,"135.325",""

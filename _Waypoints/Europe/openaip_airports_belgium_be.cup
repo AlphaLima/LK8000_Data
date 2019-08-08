@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 17.06.2019
+*  Exported on: 08.08.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -38,7 +38,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "BRUSSELS-NATIONAL","EBBR",BE,5054.083N,00429.067E,36.0m,5,65,3638m,"118.605",""
 "BÜLLINGEN","EBBN",BE,5024.900N,00616.583E,626.0m,2,123,291m,"118.980",""
 "CERFONTAINE","EBCF",BE,5009.180N,00423.220E,291.0m,2,117,600m,"123.205",""
-"CHARLEROI/BRUSSELS SOUTH","EBCI",BE,5027.600N,00427.180E,187.0m,5,64,2550m,"121.305",""
+"CHARLEROI/BRUSSELS SOUTH","EBCI",BE,5027.600N,00427.180E,187.0m,5,63,2550m,"121.305",""
 "CHIEVRES","EBCV",BE,5034.560N,00349.860E,59.0m,5,80,2497m,"122.100",""
 "CHIMAY / SAINT-REMY","EBCS",BE,5003.480N,00416.920E,250.0m,2,155,350m,"",""
 "DIEST/SCHAFFEN","EBDT",BE,5059.950N,00503.933E,30.0m,2,60,600m,"118.930",""
