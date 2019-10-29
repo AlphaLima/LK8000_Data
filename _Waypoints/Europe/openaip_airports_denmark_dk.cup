@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 08.08.2019
+*  Exported on: 29.10.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -60,7 +60,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "GRONBAEK","GRONB",DK,5616.233N,00937.400E,47.0m,2,70,450m,"",""
 "GRONHOLT","EKGH",DK,5556.383N,01222.917E,30.0m,5,110,1020m,"122.500",""
 "HADERSLEV","EKHV",DK,5518.132N,00931.350E,25.0m,5,100,1120m,"122.225",""
-"HADSUND","EKHS",DK,5645.354N,01013.728E,2.0m,2,90,650m,"",""
 "HAMMER","EKHM",DK,5554.417N,00927.217E,90.0m,4,100,700m,"122.475",""
 "HERNING AIRPORT","EKHG",DK,5611.082N,00902.664E,51.0m,5,90,900m,"",""
 "HOLBAEK","EKHK",DK,5543.968N,01136.168E,1.0m,2,103,650m,"123.500",""

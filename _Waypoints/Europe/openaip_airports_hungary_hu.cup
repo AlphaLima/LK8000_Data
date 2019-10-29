@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 08.08.2019
+*  Exported on: 29.10.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -40,7 +40,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "DUNAKESZI","LHDK",HU,4737.000N,01909.000E,126.0m,2,110,800m,"129.790",""
 "DUNAUJVAROS","LHDV",HU,4653.700N,01855.183E,123.0m,2,140,950m,"130.800",""
 "EGER","LHER",HU,4754.333N,02024.500E,222.0m,2,160,800m,"122.700",""
-"ESZTERGOM","LHEM",HU,4745.717N,01844.017E,109.0m,2,20,1000m,"126.850",""
+"ESZTERGOM","LHEM",HU,4745.717N,01844.017E,109.0m,2,20,1000m,"",""
 "FARKASHEGY","LHFH",HU,4729.383N,01854.617E,215.0m,2,150,1000m,"125.600",""
 "FELSőRáDA AIRPORT","FELSÅ",HU,4715.480N,01910.320E,110.0m,2,150,400m,"",""
 "FERTőSZENTMIKLóS","LHFM",HU,4734.980N,01650.700E,134.0m,5,160,985m,"118.935",""

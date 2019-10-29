@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!--
-*  Exported on: 06.03.2019
+*  Exported on: 29.10.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -24,7 +24,7 @@
 *  POSSIBILITY OF SUCH DAMAGES.
 -->
 
-<OPENAIP VERSION="2173813" DATAFORMAT="1.1">
+<OPENAIP VERSION="2410849" DATAFORMAT="1.1">
 <WAYPOINTS>
 <AIRPORT TYPE="HELI_CIVIL">
   <COUNTRY>LI</COUNTRY>
@@ -36,16 +36,16 @@
     <ELEV UNIT="M">483.108</ELEV>
   </GEOLOCATION>
   <RADIO CATEGORY="COMMUNICATION">
-    <FREQUENCY>119.800</FREQUENCY>
-    <TYPE>OTHER</TYPE>
-    <TYPESPEC>AD</TYPESPEC>
-    <DESCRIPTION>AD</DESCRIPTION>
-  </RADIO>
-  <RADIO CATEGORY="COMMUNICATION">
     <FREQUENCY>159.675</FREQUENCY>
     <TYPE>OTHER</TYPE>
     <TYPESPEC>H1</TYPESPEC>
     <DESCRIPTION>H1</DESCRIPTION>
+  </RADIO>
+  <RADIO CATEGORY="COMMUNICATION">
+    <FREQUENCY>119.805</FREQUENCY>
+    <TYPE>OTHER</TYPE>
+    <TYPESPEC>AD</TYPESPEC>
+    <DESCRIPTION>AD</DESCRIPTION>
   </RADIO>
 </AIRPORT>
 </WAYPOINTS>

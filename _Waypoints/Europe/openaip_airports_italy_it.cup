@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 08.08.2019
+*  Exported on: 29.10.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -45,8 +45,8 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "AIR FOLIES","AIR F",IT,4531.980N,00854.060E,166.0m,5,,,"",""
 "AIRONE","AIRON",IT,4515.180N,00753.940E,216.0m,2,170,515m,"",""
 "AIR PATRIA","AIR P",IT,4055.560N,01403.720E,30.0m,5,,,"",""
-"ALBATROS","ALBAT",IT,3758.320N,01346.440E,2.0m,5,,,"",""
 "ALBATROS","ALBAT",IT,4546.260N,01214.640E,54.0m,5,,,"",""
+"ALBATROS","ALBAT",IT,3758.320N,01346.440E,2.0m,5,,,"",""
 "ALBATROS","ALBAT",IT,4345.300N,01257.240E,50.0m,5,,,"",""
 "ALBENGA","LIMG",IT,4402.760N,00807.560E,45.0m,5,92,1431m,"",""
 "AL CASALE","AL CA",IT,4559.040N,01255.260E,45.0m,2,90,500m,"",""
@@ -362,7 +362,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "LOELLE","LOELL",IT,4034.200N,00919.440E,800.0m,5,,,"",""
 "LUCCA / TASSIGNANO","LIQL",IT,4349.800N,01034.740E,12.0m,5,98,910m,"",""
 "LUCIANO BORGONOVI","LUCIA",IT,4511.220N,00902.520E,83.0m,5,,,"",""
-"LUGO DI ROMAGNA","LIDG",IT,4423.880N,01151.300E,19.0m,5,30,800m,"",""
+"LUGO DI ROMAGNA","LIDG",IT,4423.880N,01151.300E,19.0m,5,30,800m,"119.655",""
 "LUIGI BELARDINELLI","LUIGI",IT,4329.460N,01214.580E,315.0m,5,,,"",""
 "MACCAGNO","MACCA",IT,4425.440N,00727.540E,550.0m,5,,,"",""
 "MACRÏ","MACRÃ",IT,4003.240N,01812.960E,90.0m,5,,,"",""

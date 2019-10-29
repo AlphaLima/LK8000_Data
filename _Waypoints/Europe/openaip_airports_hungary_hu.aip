@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!--
-*  Exported on: 17.06.2019
+*  Exported on: 29.10.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -24,7 +24,7 @@
 *  POSSIBILITY OF SUCH DAMAGES.
 -->
 
-<OPENAIP VERSION="2275731" DATAFORMAT="1.1">
+<OPENAIP VERSION="2410849" DATAFORMAT="1.1">
 <WAYPOINTS>
 <AIRPORT TYPE="GLIDING">
   <COUNTRY>HU</COUNTRY>
@@ -534,14 +534,14 @@
   <NAME>ESZTERGOM</NAME>
   <ICAO>LHEM</ICAO>
   <GEOLOCATION>
-    <LAT>47.7619444444</LAT>
-    <LON>18.7336111111</LON>
+    <LAT>47.761944444444</LAT>
+    <LON>18.733611111111</LON>
     <ELEV UNIT="M">109.1184</ELEV>
   </GEOLOCATION>
   <RADIO CATEGORY="COMMUNICATION">
-    <FREQUENCY>126.850</FREQUENCY>
-    <TYPE>INFO</TYPE>
-    <DESCRIPTION>Esztergom INFO</DESCRIPTION>
+    <FREQUENCY>126.840</FREQUENCY>
+    <TYPE>APPROACH</TYPE>
+    <DESCRIPTION>Esztergom RADIO</DESCRIPTION>
   </RADIO>
   <RWY OPERATIONS="ACTIVE">
     <NAME>02/20</NAME>

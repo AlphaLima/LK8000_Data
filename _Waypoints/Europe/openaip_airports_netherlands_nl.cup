@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 08.08.2019
+*  Exported on: 29.10.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -44,7 +44,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "HOOGEVEEN","EHHO",NL,5243.848N,00630.966E,12.0m,2,94,1080m,"127.355",""
 "LANGEVELD","LANGE",NL,5217.867N,00430.733E,3.0m,4,90,720m,"",""
 "LEEUWARDEN","EHLW",NL,5313.716N,00545.636E,1.0m,5,54,2957m,"120.705",""
-"LELYSTAD","EHLE",NL,5227.618N,00531.632E,-4.0m,5,47,1350m,"123.680",""
+"LELYSTAD","EHLE",NL,5227.200N,00530.883E,-4.0m,5,47,2700m,"135.180",""
 "LEMELERVELD","LEMEL",NL,5228.083N,00619.967E,3.0m,4,90,1180m,"122.505",""
 "LGEN. BESTKAZERNE - DE PEEL","EHDP",NL,5131.038N,00551.342E,30.0m,4,60,1300m,"136.080",""
 "MAASTRICHT AACHEN","EHBK",NL,5054.702N,00546.206E,114.0m,5,33,2750m,"119.480",""

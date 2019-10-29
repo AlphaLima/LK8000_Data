@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 08.08.2019
+*  Exported on: 29.10.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -53,7 +53,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "ALGODOR","ALGOD",ES,3953.886N,00352.457W,487.0m,5,140,428m,"",""
 "ALIA","ALIA",ES,3920.709N,00511.905W,430.0m,5,60,1050m,"",""
 "ALICANTE","LEAL",ES,3816.950N,00033.635W,43.0m,5,101,3000m,"118.15",""
-"ALMANSA","ALMAN",ES,3853.720N,00106.821W,680.0m,5,150,800m,"",""
 "ALMARGO EMERGENC","ALMAR",ES,3857.233N,00344.467W,619.0m,2,90,400m,"",""
 "ALMERÍA","LEAM",ES,3650.595N,00222.149W,21.0m,5,74,3200m,"118.35",""
 "ALMONTE","ALMON",ES,3715.333N,00633.767W,65.0m,5,180,1754m,"",""
