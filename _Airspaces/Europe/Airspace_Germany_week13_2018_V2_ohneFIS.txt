@@ -3,7 +3,7 @@
 * Open-Airspace-file Germany created by Peter Kemme
 * please send any comment to peter.kemme[at]gmx.de
 *
-* effective from 15 April 2019
+* effective from 24th October 2019
 * All data and information contained in this data file is provided without guarantee as to their completeness or correctness.   
 * Any conclusions drawn from these data and information are the sole responsibility of the user.
 * 
@@ -21,6 +21,14 @@
 *           HX          = undefined activation times, activation is possible on short notice at every time
 *
 * Changes to this times can be distributed at every time by NOTAM
+*
+*
+* A big "THANK YOU" to Michael Paus, who developed a software to check the file against typo´s
+*        mpMediaSoft GmbH
+*        Schönaicher Str. 3
+*        70597 Stuttgart
+*        Tel.: +49-711-765-4094
+*        EMail: info (ät) mpmediasoft.de
 *
 *
 *########################################################################################################
@@ -62,10 +70,33 @@
 * TMZ Wittmund added 
 * CTR Cochstedt changed by AIP-SUP to RMZ until 15 SEPT 2019
 *
+*
+* changes CW28/19 -> CW38/19
+* EDWE freq. changed to 8.33
+* TMZ Wittmund deleted
+* ED-R + RMZ Muenchen added (Octoberfest)
+* ED-R + RMZ/TMZ Foerde added (3. Oct.)
+* UAV-Area EDMO added 
+* RMZ Cochstedt deleted, CTR deactivated by NOTAM 
+*
+* changes CW38/19 -> CW39/19
+* ED-R + RMZ/TMZ Foerde deleted
+*
+*
+* changes CW39/19 -> CW43/19
+* TMZ-Schlei added
+*
 *################################################################################
 *
 *
 *####### BEGIN AIRSPACE -RESTRICTED AREAS- ########
+
+AC R 
+AN ED-R Muenchen
+AH FL100 
+AL GND
+V X=48:07:59 N 011:33:53 E 
+DC 3.00
 
 AC R
 AN ED-R1 Garching H24
@@ -3865,6 +3896,15 @@ DP 47:58:44 N 011:14:39 E
 DP 48:02:45 N 011:08:06 E
 DP 48:11:04 N 011:19:21 E
 
+AC R
+AN UAV-AREA
+AH 3000msl
+AL GND
+DP 47:59:26 N 11:14:36 E
+DP 48:00:20 N 11:13:09 E
+DP 48:02:57 N 11:16:39 E
+DP 48:02:02 N 11:18:06 E
+
 AC CTR
 AN CTR Paderborn
 AH 2500ft MSL
@@ -4956,6 +4996,13 @@ DP 48:52:15 N 008:43:17 E
 
 *####### BEGIN AIRSPACE -RMZ- ########
 
+AC RMZ  
+AN RMZ Muenchen Police Info 122.800
+AH FL100 
+AL GND
+V X=48:07:59 N 011:33:53 E 
+DC 9.00
+
 AC RMZ
 AN RMZ EDFQ 135.165
 AH 1000ft AGL
@@ -5015,16 +5062,6 @@ DP 50:15:45 N 011:09:03 E
 DP 50:10:34 N 011:04:24 E
 DP 50:15:44 N 010:50:27 E
 DP 50:20:56 N 010:55:05 E
-
-AC RMZ
-AN RMZ EDBC 131.125
-AH 3000ft MSL
-AL GND
-DP 51:52:51 N 011:13:32 E
-DP 51:55:33 N 011:33:01 E
-DP 51:49:42 N 011:35:07 E
-DP 51:47:00 N 011:15:40 E
-DP 51:52:51 N 011:13:32 E
 
 AC RMZ
 AN RMZ EDTD 126.690
@@ -5087,7 +5124,7 @@ DP 48:26:04 N 012:49:00 E
 DP 48:26:05 N 012:51:03 E
 
 AC RMZ
-AN RMZ EDWE 118.600
+AN RMZ EDWE 118.605
 *AG Emden Info
 AH 1000ft AGL
 AL GND
@@ -5286,6 +5323,31 @@ DP 49:15:05 N 007:27:32 E
 DP 49:16:49 N 007:30:17 E
 
 *####### BEGIN AIRSPACE -TMZ- ########
+
+AC TMZ
+AN TMZ-Schlei XPDR A6102 118.550
+AH 5000ft MSL
+AL 1000ft MSL
+DP 54:49:24 N 009:44:20 E 
+DP 54:50:28 N 009:53:36 E
+DP 54:45:54 N 010:03:13 E 
+DP 54:44:45 N 010:09:07 E
+DP 54:42:30 N 010:06:30 E 
+DP 54:42:13 N 010:02:29 E
+DP 54:37:00 N 009:55:00 E 
+DP 54:31:00 N 010:00:00 E
+DP 54:30:00 N 010:01:00 E 
+DP 54:28:48 N 010:02:00 E
+DP 54:23:42 N 009:50:52 E 
+DP 54:13:40 N 009:55:40 E
+DP 54:10:43 N 009:56:00 E 
+DP 54:02:00 N 009:54:00 E
+DP 54:04:40 N 009:26:45 E 
+DP 53:59:09 N 009:21:05 E
+DP 54:15:00 N 008:45:00 E 
+DP 54:29:09 N 008:45:52 E
+DP 54:35:00 N 009:02:43 E 
+DP 54:49:24 N 009:44:20 E
 
 AC TMZ
 AN TMZ-EDLW XPDR A6102 125.225
@@ -6016,31 +6078,6 @@ DP 51:25:56 N 008:21:13 E
 DP 51:25:51 N 008:17:29 E
 DP 51:30:32 N 008:12:34 E
 
-AC TMZ
-AN TMZ-ETNT XPDR A4472 123.600
-AH 5000ft MSL
-AL 2500ft MSL
-DP 53:21:10 N 007:11:41 E
-DP 53:35:47 N 007:07:00 E
-DP 53:39:38 N 007:13:38 E
-DP 53:42:49 N 008 02:02 E
-DP 53:31:46 N 008 09:08 E
-DP 53:22:32 N 008 07:06 E
-DP 53:18:44 N 007:20:26 E
-DP 53:21:10 N 007:11:41 E
-
-AC TMZ
-AN TMZ-ETNT XPDR A4472 123.600
-AH 5000ft MSL
-AL 1000ft AGL
-DP 53:24:31 N 007:25:45 E
-DP 53:36:10 N 007:16:36 E
-DP 53:38:47 N 007:25:39 E
-DP 53:39:53 N 007:54:31 E
-DP 53:28:53 N 007:59:09 E
-DP 53:25:12 N 007:52:28 E
-DP 53:24:31 N 007:25:45 E
-
 
 *####### BEGIN AIRSPACE -GLIDER SECTORS- ########
 
@@ -6383,7 +6420,7 @@ AL 4500ft MSL
 DP 51:14:19 N 006:13:35 E
 DP 51:16:43 N 006:19:48 E
 DP 51:06:57 N 006:23:04 E
-DP 51:08:20 N 006:14:06 E
+DP 51:08:20 N 006:14:01 E
 DP 51:14:19 N 006:13:35 E
 
 AC W
