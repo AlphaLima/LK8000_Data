@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!--
-*  Exported on: 29.10.2019
+*  Exported on: 15.12.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -24,7 +24,7 @@
 *  POSSIBILITY OF SUCH DAMAGES.
 -->
 
-<OPENAIP VERSION="2410849" DATAFORMAT="1.1">
+<OPENAIP VERSION="2457060" DATAFORMAT="1.1">
 <WAYPOINTS>
 <AIRPORT TYPE="AF_CIVIL">
   <COUNTRY>SK</COUNTRY>
@@ -1750,30 +1750,16 @@
     <TYPE>TOWER</TYPE>
     <DESCRIPTION>Zilina TWR</DESCRIPTION>
   </RADIO>
+  <RADIO CATEGORY="COMMUNICATION">
+    <FREQUENCY>123.685</FREQUENCY>
+    <TYPE>CTAF</TYPE>
+    <DESCRIPTION>Žilina Traffic</DESCRIPTION>
+  </RADIO>
   <RADIO CATEGORY="NAVIGATION">
     <FREQUENCY>108.150</FREQUENCY>
     <TYPE>ILS</TYPE>
     <DESCRIPTION>ZNA</DESCRIPTION>
   </RADIO>
-  <RWY OPERATIONS="ACTIVE">
-    <NAME>06/24</NAME>
-    <SFC>GRAS</SFC>
-    <LENGTH UNIT="M">1130</LENGTH>
-    <WIDTH UNIT="M">45</WIDTH>
-    <STRENGTH UNIT="MPW">4.7</STRENGTH>
-    <DIRECTION TC="060">
-      <RUNS>
-        <TORA UNIT="M">1130</TORA>
-        <LDA UNIT="M">1130</LDA>
-      </RUNS>
-    </DIRECTION>
-    <DIRECTION TC="240">
-      <RUNS>
-        <TORA UNIT="M">1130</TORA>
-        <LDA UNIT="M">1130</LDA>
-      </RUNS>
-    </DIRECTION>
-  </RWY>
   <RWY OPERATIONS="ACTIVE">
     <NAME>06/24</NAME>
     <SFC>CONC</SFC>
@@ -1786,7 +1772,7 @@
         <LDA UNIT="M">1150</LDA>
       </RUNS>
       <LANDINGAIDS>
-        <ILS>108.150</ILS>
+        <ILS>123.685</ILS>
         <PAPI>TRUE</PAPI>
       </LANDINGAIDS>
     </DIRECTION>
@@ -1798,6 +1784,21 @@
       <LANDINGAIDS>
         <PAPI>TRUE</PAPI>
       </LANDINGAIDS>
+    </DIRECTION>
+  </RWY>
+  <RWY OPERATIONS="CLOSED">
+    <NAME>06/24</NAME>
+    <SFC>GRAS</SFC>
+    <LENGTH UNIT="M">1130</LENGTH>
+    <WIDTH UNIT="M">45</WIDTH>
+    <STRENGTH UNIT="MPW">4.7</STRENGTH>
+    <DIRECTION TC="060">
+    </DIRECTION>
+    <DIRECTION TC="240">
+      <RUNS>
+        <TORA UNIT="M">1130</TORA>
+        <LDA UNIT="M">1130</LDA>
+      </RUNS>
     </DIRECTION>
   </RWY>
 </AIRPORT>

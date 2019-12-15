@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!--
-*  Exported on: 29.10.2019
+*  Exported on: 15.12.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -24,7 +24,7 @@
 *  POSSIBILITY OF SUCH DAMAGES.
 -->
 
-<OPENAIP VERSION="2410849" DATAFORMAT="1.1">
+<OPENAIP VERSION="2457060" DATAFORMAT="1.1">
 <WAYPOINTS>
 <AIRPORT TYPE="AF_MIL_CIVIL">
   <COUNTRY>DK</COUNTRY>
@@ -1222,21 +1222,49 @@
 </AIRPORT>
 <AIRPORT TYPE="AF_CIVIL">
   <COUNTRY>DK</COUNTRY>
-  <NAME>HERNING AIRPORT</NAME>
+  <NAME>HERNING</NAME>
   <ICAO>EKHG</ICAO>
   <GEOLOCATION>
     <LAT>56.1847</LAT>
     <LON>9.0444</LON>
     <ELEV UNIT="M">50.9016</ELEV>
   </GEOLOCATION>
+  <RADIO CATEGORY="COMMUNICATION">
+    <FREQUENCY>121.000</FREQUENCY>
+    <TYPE>INFO</TYPE>
+    <DESCRIPTION>Herning Radio</DESCRIPTION>
+  </RADIO>
+  <RWY OPERATIONS="ACTIVE">
+    <NAME>15/33</NAME>
+    <SFC>GRAS</SFC>
+    <LENGTH UNIT="M">667</LENGTH>
+    <WIDTH UNIT="M">30</WIDTH>
+    <DIRECTION TC="152">
+      <RUNS>
+        <TORA UNIT="M">557</TORA>
+        <LDA UNIT="M">537</LDA>
+      </RUNS>
+    </DIRECTION>
+    <DIRECTION TC="332">
+    </DIRECTION>
+  </RWY>
   <RWY OPERATIONS="ACTIVE">
     <NAME>09/27</NAME>
-    <SFC>UNKN</SFC>
-    <LENGTH UNIT="M">900.0744</LENGTH>
+    <SFC>ASPH</SFC>
+    <LENGTH UNIT="M">1199</LENGTH>
     <WIDTH UNIT="M">30</WIDTH>
-    <DIRECTION TC="090">
+    <STRENGTH UNIT="PCN">11/F/B/Y/T</STRENGTH>
+    <DIRECTION TC="092">
+      <RUNS>
+        <TORA UNIT="M">1199</TORA>
+        <LDA UNIT="M">1199</LDA>
+      </RUNS>
     </DIRECTION>
-    <DIRECTION TC="270">
+    <DIRECTION TC="272">
+      <RUNS>
+        <TORA UNIT="M">1199</TORA>
+        <LDA UNIT="M">1199</LDA>
+      </RUNS>
     </DIRECTION>
   </RWY>
 </AIRPORT>
@@ -3237,7 +3265,7 @@
 </AIRPORT>
 <AIRPORT TYPE="AF_MIL_CIVIL">
   <COUNTRY>DK</COUNTRY>
-  <NAME>VOJENS SKRYDSTRUP</NAME>
+  <NAME>VOJENS/SKRYDSTRUP</NAME>
   <ICAO>EKSP</ICAO>
   <GEOLOCATION>
     <LAT>55.2256</LAT>
@@ -3269,7 +3297,7 @@
     <SFC>ASPH</SFC>
     <LENGTH UNIT="M">3006</LENGTH>
     <WIDTH UNIT="M">45</WIDTH>
-    <STRENGTH UNIT="PCN">90/R/A/W/T</STRENGTH>
+    <STRENGTH UNIT="PCN">90/F/A/W/T</STRENGTH>
     <DIRECTION TC="103">
       <RUNS>
         <TORA UNIT="M">3006</TORA>
@@ -3295,8 +3323,8 @@
     <NAME>10R/28L</NAME>
     <SFC>ASPH</SFC>
     <LENGTH UNIT="M">2971</LENGTH>
-    <WIDTH UNIT="M">23</WIDTH>
-    <STRENGTH UNIT="PCN">45/R/A/W/T</STRENGTH>
+    <WIDTH UNIT="M">24</WIDTH>
+    <STRENGTH UNIT="PCN">77/F/B/W/T</STRENGTH>
     <DIRECTION TC="103">
       <RUNS>
         <TORA UNIT="M">2971</TORA>

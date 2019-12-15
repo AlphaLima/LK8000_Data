@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!--
-*  Exported on: 29.10.2019
+*  Exported on: 15.12.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -24,7 +24,7 @@
 *  POSSIBILITY OF SUCH DAMAGES.
 -->
 
-<OPENAIP VERSION="2410849" DATAFORMAT="1.1">
+<OPENAIP VERSION="2457060" DATAFORMAT="1.1">
 <WAYPOINTS>
 <AIRPORT TYPE="HELI_CIVIL">
   <COUNTRY>PT</COUNTRY>

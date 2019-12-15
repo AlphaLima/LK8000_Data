@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 29.10.2019
+*  Exported on: 15.12.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -61,7 +61,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "GRONHOLT","EKGH",DK,5556.383N,01222.917E,30.0m,5,110,1020m,"122.500",""
 "HADERSLEV","EKHV",DK,5518.132N,00931.350E,25.0m,5,100,1120m,"122.225",""
 "HAMMER","EKHM",DK,5554.417N,00927.217E,90.0m,4,100,700m,"122.475",""
-"HERNING AIRPORT","EKHG",DK,5611.082N,00902.664E,51.0m,5,90,900m,"",""
+"HERNING","EKHG",DK,5611.082N,00902.664E,51.0m,5,92,1199m,"121.000",""
 "HOLBAEK","EKHK",DK,5543.968N,01136.168E,1.0m,2,103,650m,"123.500",""
 "HUNDELEV","HUNDE",DK,5725.633N,00951.700E,20.0m,2,40,550m,"",""
 "IKAST","IKAST",DK,5607.967N,00911.933E,52.0m,2,120,500m,"",""
@@ -118,6 +118,6 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "VEJRO","EKVO",DK,5501.550N,01120.917E,100.0m,2,60,550m,"",""
 "VESTHIMMERLAND","EKVH",DK,5650.814N,00927.516E,36.0m,5,110,1200m,"122.225",""
 "VIBORG","EKVB",DK,5624.600N,00924.546E,23.0m,2,174,676m,"123.500",""
-"VOJENS SKRYDSTRUP","EKSP",DK,5513.536N,00915.834E,43.0m,5,103,3006m,"118.275",""
+"VOJENS/SKRYDSTRUP","EKSP",DK,5513.536N,00915.834E,43.0m,5,103,3006m,"118.275",""
 "VOJSTRUP","EKFS",DK,5514.867N,01012.250E,37.0m,4,90,800m,"129.975",""
 "ÆRø AIRPORT","EKAE",DK,5451.168N,01027.384E,-1.0m,2,149,789m,"123.175",""

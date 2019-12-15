@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 29.10.2019
+*  Exported on: 15.12.2019
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -559,7 +559,7 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "LES CROTS","LES C",FR,4432.188N,00626.089E,783.0m,5,60,450m,"123.500",""
 "LES GARDIOS - NéGREPELISSE","LES G",FR,4404.836N,00130.018E,98.0m,5,,,"",""
 "LES GOUDRIS","LES G",FR,4858.698N,00025.350W,154.0m,5,,,"",""
-"LES MUREAUX","LFXU",FR,4859.917N,00156.500E,28.0m,2,100,1000m,"122.950",""
+"LES MUREAUX","LFXU",FR,4859.917N,00156.500E,28.0m,2,99,1950m,"122.950",""
 "LES NOYERS","LES N",FR,4915.564N,00139.648E,97.0m,5,,,"",""
 "LESPARRE SAINT LAURENT MEDOC","LFDU",FR,4511.868N,00052.934W,32.0m,2,65,900m,"123.500",""
 "LES SABLES D OLONNE TALMONT","LFOO",FR,4628.534N,00143.501W,32.0m,2,64,790m,"123.350",""
@@ -1073,5 +1073,5 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "VOVES VIABON","VOVES",FR,4812.750N,00140.483E,139.0m,5,,,"",""
 "WISSEMBOURG","WISSE",FR,4859.502N,00758.482E,173.0m,5,,,"",""
 "YENNE","YENNE",FR,4542.834N,00546.548E,226.0m,2,120,400m,"",""
-"YVETOT","YVETO",FR,4938.298N,00043.668E,141.0m,5,,,"",""
+"YVETOT-BAONS LE COMTE","LFYV",FR,4938.300N,00043.667E,141.0m,2,86,700m,"",""
 "ZOUFFTGEN","ZOUFF",FR,4926.950N,00607.533E,225.0m,2,150,350m,"",""
