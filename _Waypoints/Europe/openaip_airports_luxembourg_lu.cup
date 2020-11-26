@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 15.12.2019
+*  Exported on: 26.11.2020
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -28,4 +28,4 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "LUXEMBOURG","ELLX",LU,4937.400N,00612.267E,376.0m,5,60,4000m,"118.105",""
 "MEDERNACH / KITZEBOUR","ELMD",LU,4947.340N,00614.460E,357.0m,2,60,150m,"119.500",""
 "NOERTRANGE","ELNT",LU,4958.866N,00555.068E,464.0m,2,80,657m,"126.955",""
-"USELDANGE","ELUS",LU,4946.067N,00558.050E,283.0m,2,101,900m,"129.435",""
+"USELDANGE","ELUS",LU,4946.067N,00558.050E,283.0m,4,101,900m,"129.435",""

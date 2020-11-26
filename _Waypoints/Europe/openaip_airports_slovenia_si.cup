@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 15.12.2019
+*  Exported on: 26.11.2020
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -43,8 +43,8 @@ name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
 "MURSKA SOBOTA AIRPORT","LJMS",SI,4637.764N,01610.500E,184.0m,2,89,1015m,"",""
 "NOVO MESTO AIRPORT","LJNM",SI,4548.618N,01506.762E,174.0m,2,50,1200m,"",""
 "PODPEČ AIRFIELD","PODPE",SI,4558.467N,01425.083E,287.0m,2,80,550m,"123.500",""
-"PORTOROZ AIRPORT","LJPZ",SI,4528.404N,01336.900E,2.0m,5,150,1200m,"",""
-"POSTOJNA AIRFIELD","LJPO",SI,4545.132N,01411.682E,530.0m,5,,,"",""
+"PORTOROZ/SECOVLJE","LJPZ",SI,4528.350N,01336.933E,2.0m,5,150,1200m,"124.875",""
+"POSTOJNA","LJPO",SI,4545.132N,01411.682E,530.0m,2,23,750m,"123.500",""
 "PRILOZJE - METLIKA","PRILO",SI,4535.460N,01515.666E,162.0m,2,40,520m,"",""
 "PTUJ AIRPORT","LJPT",SI,4625.518N,01559.316E,210.0m,5,110,1103m,"",""
 "SLOVENJ GRADEC AIRPORT","LJSG",SI,4628.320N,01507.020E,501.0m,5,140,1204m,"",""
