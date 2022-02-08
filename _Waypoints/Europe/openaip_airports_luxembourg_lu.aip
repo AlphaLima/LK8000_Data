@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!--
-*  Exported on: 26.11.2020
+*  Exported on: 08.02.2022
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -24,7 +24,7 @@
 *  POSSIBILITY OF SUCH DAMAGES.
 -->
 
-<OPENAIP VERSION="2812016" DATAFORMAT="1.1">
+<OPENAIP VERSION="3282813" DATAFORMAT="1.1">
 <WAYPOINTS>
 <AIRPORT TYPE="HELI_CIVIL">
 <IDENTIFIER>156054</IDENTIFIER>
@@ -86,14 +86,19 @@
     <DESCRIPTION>LUXEMBOURG APPROACH</DESCRIPTION>
   </RADIO>
   <RADIO CATEGORY="COMMUNICATION">
+    <FREQUENCY>118.905</FREQUENCY>
+    <TYPE>APPROACH</TYPE>
+    <DESCRIPTION>Luxembourg DIRECTOR</DESCRIPTION>
+  </RADIO>
+  <RADIO CATEGORY="COMMUNICATION">
     <FREQUENCY>118.105</FREQUENCY>
     <TYPE>TOWER</TYPE>
     <DESCRIPTION>LUXEMBOURG TOWER</DESCRIPTION>
   </RADIO>
   <RADIO CATEGORY="COMMUNICATION">
-    <FREQUENCY>118.905</FREQUENCY>
-    <TYPE>APPROACH</TYPE>
-    <DESCRIPTION>Luxembourg DIRECTOR</DESCRIPTION>
+    <FREQUENCY>121.855</FREQUENCY>
+    <TYPE>DELIVERY</TYPE>
+    <DESCRIPTION>Luxembourg Delivery</DESCRIPTION>
   </RADIO>
   <RADIO CATEGORY="NAVIGATION">
     <FREQUENCY>110.700</FREQUENCY>
@@ -122,7 +127,7 @@
         <LDA UNIT="M">4000</LDA>
       </RUNS>
       <LANDINGAIDS>
-        <ILS>109.900</ILS>
+        <ILS>110.700</ILS>
         <PAPI>TRUE</PAPI>
       </LANDINGAIDS>
     </DIRECTION>
@@ -132,7 +137,7 @@
         <LDA UNIT="M">4000</LDA>
       </RUNS>
       <LANDINGAIDS>
-        <ILS>134.755</ILS>
+        <ILS>109.900</ILS>
         <PAPI>TRUE</PAPI>
       </LANDINGAIDS>
     </DIRECTION>

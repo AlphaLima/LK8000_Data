@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <!--
-*  Exported on: 26.11.2020
+*  Exported on: 08.02.2022
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -24,7 +24,7 @@
 *  POSSIBILITY OF SUCH DAMAGES.
 -->
 
-<OPENAIP VERSION="2812016" DATAFORMAT="1.1">
+<OPENAIP VERSION="3282813" DATAFORMAT="1.1">
 <WAYPOINTS>
 <AIRPORT TYPE="HELI_CIVIL">
 <IDENTIFIER>2403324</IDENTIFIER>
@@ -956,6 +956,7 @@
 <IDENTIFIER>157440</IDENTIFIER>
   <COUNTRY>NO</COUNTRY>
   <NAME>ELVENES</NAME>
+  <ICAO>ENLV</ICAO>
   <GEOLOCATION>
     <LAT>68.871111111111</LAT>
     <LON>17.984166666667</LON>
@@ -3109,7 +3110,7 @@
 <AIRPORT TYPE="APT">
 <IDENTIFIER>157422</IDENTIFIER>
   <COUNTRY>NO</COUNTRY>
-  <NAME>NOTODDEN/TUVEN</NAME>
+  <NAME>NOTODDEN</NAME>
   <ICAO>ENNO</ICAO>
   <GEOLOCATION>
     <LAT>59.565555555556</LAT>

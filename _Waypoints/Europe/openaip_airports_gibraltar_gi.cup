@@ -1,6 +1,6 @@
 ***
 *
-*  Exported on: 03.02.2018
+*  Exported on: 08.02.2022
 *  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
 *  not to be used for commercial purposes. For more information on commercial licensing visit
 *  
@@ -25,4 +25,4 @@
 ***
 
 name,code,country,lat,lon,elev,style,rwdir,rwlen,freq,desc
-"GIBRALTAR","LXGB",GI,3609.072N,00520.982W,5.0m,5,90,1829m,"131.200",""
+"GIBRALTAR","LXGB",GI,3609.072N,00520.982W,5.0m,5,90,1777m,"131.200",""
