@@ -3,12 +3,12 @@
 * Open-Airspace-file Germany created by Peter Kemme
 * please send any comment to peter.kemme[at]gmx.de
 *
-* effective from 25th March 2021
+* effective from 20th May 2021
 * All data and information contained in this data file is provided without guarantee as to their completeness or correctness.   
 * Any conclusions drawn from these data and information are the sole responsibility of the user.
 * 
 *
-* The times for the restricted and danger areas (ED-R´s and ED-D´s) are from German-AIP.
+* The times for the restricted and danger areas (ED-RÂ´s and ED-DÂ´s) are from German-AIP.
 * 
 *   e.g.    MON-THU     = this area is active from Monday till Thursday 
 *           MON-FRI+    = this area is normally active from Monday till Friday. Activation for SAT, SUN and HOL is possible by NOTAM
@@ -20,12 +20,12 @@
 * Changes to this times can be distributed at every time by NOTAM
 *
 *
-* A big "THANK YOU" to Michael Paus, who developed a software to check the file against typo´s
+* A big "THANK YOU" to Michael Paus, who developed a software to check the file against typoÂ´s
 *        mpMediaSoft GmbH
-*        Schönaicher Str. 3
+*        SchÃ¶naicher Str. 3
 *        70597 Stuttgart
 *        Tel.: +49-711-765-4094
-*        EMail: info (ät) mpmediasoft.de
+*        EMail: info (Ã¤t) mpmediasoft.de
 *
 *
 *########################################################################################################
@@ -41,12 +41,26 @@
 * ED-R 145 coordinates changed 
 * upper limits of ED-D 44, 46 and 47 changed
 * class C changed at: EDDB, EDDF, EDDH, EDDV
-* CTR´s changed: LFSB, EDDE
+* CTRÂ´s changed: LFSB, EDDE
 * class D (non CTR) changed at: EDHI, EDDV, EDDW
 * TMZ new: EDDW, EDDE    
 * TMZ changed at: EDDC, EDDH, EDDV, EDDP, EDJA
 * glider sectors changed at: EDDH 
 * glider sectors withdrawn at: EDDV
+*
+* changes 2021_03 -> 2021_04
+* PJE Brilon withdrawn
+* some typos corrected
+* lower limit of TMZ-EDDE corrected
+*
+* changes 2021_04 -> 2021_05
+* CTR Berlin-Tegel withdrawn
+*
+* changes 2021_05 -> 2021_09
+* ATZ EDBC introduced, defined as "Danger Area"
+*
+* changes 2021_09 -> 2021_11
+* RMZ EDQA added
 *
 *
 *################################################################################
@@ -2170,7 +2184,7 @@ DP 55:00:05 N 007:43:28 E
 *####### BEGIN AIRSPACE -C- below FL100 ########
 
 AC C
-AN Berlin
+AN Berlin 132.650
 AH FL100
 AL 2500ft MSL
 DP 52:21:09 N 012:53:53 E 
@@ -2190,7 +2204,7 @@ DB 52:07:14 N 013:02:44 E, 52:21:09 N 012:53:53 E
 DP 52:21:09 N 012:53:53 E
 
 AC C
-AN Berlin
+AN Berlin 132.650
 AH FL100
 AL 3500ft MSL
 DP 52:24:37 N 013:08:16 E 
@@ -2200,7 +2214,7 @@ DP 52:21:49 N 013:10:02 E
 DP 52:24:37 N 013:08:16 E
 
 AC C
-AN Berlin
+AN Berlin 132.650
 AH FL100
 AL 3500ft MSL
 DP 52:23:54 N 012:47:29 E 
@@ -2278,7 +2292,7 @@ DB 52:23:24 N 014:12:05 E, 52:37:32 N 014:03:24 E
 DP 52:37:32 N 014:03:24 E
 
 AC C
-AN Berlin
+AN Berlin 132.650
 AH FL100
 AL 4500ft MSL
 DP 52:28:22 N 013:05:54 E 
@@ -2318,7 +2332,7 @@ DB 52:24:50 N 014:18:26 E, 52:39:00 N 014:09:47 E
 DP 52:39:00 N 014:09:47 E
 
 AC C
-AN Berlin
+AN Berlin 132.650
 AH FL100
 AL 5500ft MSL
 DP 52:29:43 N 012:49:23 E
@@ -2336,7 +2350,7 @@ DB 52:23:54 N 012:47:29 E, 52:29:43 N 012:49:23 E
 DP 52:29:43 N 012:49:23 E
 
 AC C
-AN Berlin (HX-WEST)
+AN Berlin (HX-WEST) 133.630
 AH FL75
 AL 5500ft MSL
 DP 52:27:52 N 012:41:50 E 
@@ -2356,7 +2370,7 @@ DB 52:18:04 N 012:41:12 E, 52:27:52 N 012:41:50 E
 DP 52:27:52 N 012:41:50 E
 
 AC C
-AN Berlin (HX-EAST)
+AN Berlin (HX-EAST) 133.630
 AH FL75
 AL 5500ft MSL
 DP 52:44:16 N 013:50:40 E
@@ -2376,7 +2390,7 @@ DB 52:40:46 N 013:58:33 E, 52:44:16 N 013:50:40 E
 DP 52:44:16 N 013:50:40 E
 
 AC C
-AN Berlin
+AN Berlin 132.650
 AH FL100
 AL 5500ft MSL
 DP 52:02:23 N 013:01:25 E 
@@ -2392,7 +2406,7 @@ DB 51:58:59 N 013:09:08 E, 52:02:23 N 013:01:25 E
 DP 52:02:23 N 013:01:25 E
 
 AC C
-AN Berlin (HX-EAST)
+AN Berlin (HX-EAST) 133.630
 AH FL75
 AL 5500ft MSL
 DP 52:23:24 N 014:12:05 E
@@ -2412,7 +2426,7 @@ DB 52:19:07 N 014:11:56 E, 52:23:24 N 014:12:05 E
 DP 52:23:24 N 014:12:05 E
 
 AC C
-AN Berlin (HX-WEST)
+AN Berlin (HX-WEST) 133.630
 AH FL75
 AL 5500ft MSL
 DP 52:04:12 N 012:50:06 E
@@ -2432,7 +2446,7 @@ DB 51:57:10 N 013:01:40 E, 52:04:12 N 012:50:06 E
 DP 52:04:12 N 012:50:06 E
 
 AC C
-AN Berlin
+AN Berlin 132.650
 AH FL100
 AL FL75
 DP 52:34:02 N 012:45:05 E
@@ -2450,7 +2464,7 @@ DB 52:27:52 N 012:41:50 E, 52:34:02 N 012:45:05 E
 DP 52:34:02 N 012:45:05 E
 
 AC C
-AN Berlin
+AN Berlin 132.650
 AH FL100
 AL FL75
 DP 51:57:10 N 013:01:40 E
@@ -2548,7 +2562,7 @@ DB 51:52:02 N 013:02:46 E, 52:02:42 N 012:43:54 E
 DP 52:02:42 N 012:43:54 E
 
 AC C
-AN Berlin
+AN Berlin 132.650
 AH FL100
 AL FL75
 DP 52:18:04 N 012:41:12 E
@@ -2564,7 +2578,7 @@ DB 52:04:12 N 012:50:06 E, 52:18:04 N 012:41:12 E
 DP 52:18:04 N 012:41:12 E
 
 AC C
-AN Berlin
+AN Berlin 132.650
 AH FL100
 AL FL75
 DP 52:37:32 N 014:03:24 E
@@ -2580,7 +2594,7 @@ DB 52:23:24 N 014:12:05 E, 52:37:32 N 014:03:24 E
 DP 52:37:32 N 014:03:24 E
 
 AC C
-AN Berlin
+AN Berlin 132.650
 AH FL100
 AL FL75
 DP 52:27:52 N 012:41:50 E
@@ -2600,7 +2614,7 @@ DB 52:18:04 N 012:41:12 E, 52:27:52 N 012:41:50 E
 DP 52:27:52 N 012:41:50 E 
 
 AC C
-AN Berlin
+AN Berlin 132.650
 AH FL100
 AL FL75
 DP 52:44:16 N 013:50:40 E 
@@ -2620,7 +2634,7 @@ DB 52:40:46 N 013:58:33 E, 52:44:16 N 013:50:40 E
 DP 52:44:16 N 013:50:40 E 
 
 AC C
-AN Berlin
+AN Berlin 132.650
 AH FL100
 AL FL75
 DP 52:23:24 N 014:12:05 E
@@ -2640,7 +2654,7 @@ DB 52:19:07 N 014:11:56 E, 52:23:24 N 014:12:05 E
 DP 52:23:24 N 014:12:05 E
 
 AC C
-AN Berlin
+AN Berlin 132.650
 AH FL100
 AL FL75
 DP 52:04:12 N 012:50:06 E
@@ -3614,17 +3628,6 @@ DB 47:33:59 N 007:41:07 E, 47:41:21 N 007:35:36 E
 DP 47:41:21 N 007:35:36 E
 
 AC CTR
-AN CTR Berlin-Tegel  NOTAM
-AH 2500ft MSL
-AL GND
-DP 52:34:56 N 012:59:03 E
-DP 52:38:12 N 013:33:05 E
-DP 52:35:10 N 013:33:53 E
-DP 52:32:31 N 013:38:59 E
-DP 52:28:53 N 013:00:41 E
-DP 52:34:56 N 012:59:03 E
-
-AC CTR
 AN CTR Berlin
 AH 2500ft MSL
 AL GND
@@ -3691,16 +3694,6 @@ V X=52:35:09 N 009:58:06 E
 DB 52:32:12 N 009:58:53 E, 52:38:06 N 009:57:18 E
 DP 52:38:06 N 009:57:18 E
 DP 52:39:23 N 010:10:16 E
-
-*AC CTR
-*AN CTR Cochstedt
-*AH 3000ft MSL
-*AL GND
-*DP 51:52:51 N 011:13:32 E
-*DP 51:55:33 N 011:33:01 E
-*DP 51:49:42 N 011:35:07 E
-*DP 51:47:00 N 011:15:40 E
-*DP 51:52:51 N 011:13:32 E
 
 AC CTR
 AN CTR Diepholz
@@ -5031,7 +5024,7 @@ DB 51:16:39 N 011:50:55 E, 51:31:47 N 011:49:21 E
 DP 51:31:47 N 011:49:21 E
 
 AC D
-AN Leipzig 126.175
+AN Leipzig (HX-West) 134.460
 AH FL75
 AL 3500ft MSL
 DP 51:31:14 N 011:38:08 E
@@ -5063,7 +5056,7 @@ DP 51:33:22 N 012:23:07 E
 DP 51:31:47 N 011:49:21 E
 
 AC D
-AN Leipzig 126.175
+AN Leipzig (HX-East) 134.460
 AH FL75
 AL 3500ft MSL
 DP 51:34:51 N 012:20:32 E
@@ -5096,7 +5089,7 @@ DP 51:15:22 N 011:57:50 E
 DP 51:16:52 N 011:55:14 E
 
 AC D
-AN Leipzig 126.175
+AN Leipzig (HX-West) 134.460
 AH FL75
 AL 4500ft MSL
 DP 51:29:14 N 011:34:18 E
@@ -5109,7 +5102,7 @@ DB 51:17:40 N 011:35:40 E, 51:29:14 N 011:34:18 E
 DP 51:29:14 N 011:34:18 E
 
 AC D
-AN Leipzig 126.175
+AN Leipzig (HX-East) 134.460
 AH FL75
 AL 4500ft MSL
 DP 51:32:40 N 012:48:43 E
@@ -5142,7 +5135,7 @@ DP 51:11:23 N 012:04:44 E
 DP 51:14:09 N 011:59:58 E
 
 AC D
-AN Leipzig 126.175
+AN Leipzig (HX-West) 134.460
 AH FL75
 AL 5500ft MSL
 DP 51:37:13 N 011:38:53 E 
@@ -5159,7 +5152,7 @@ DB 51:29:14 N 011:34:18 E, 51:37:13 N 011:38:53 E
 DP 51:37:13 N 011:38:53 E
 
 AC D
-AN Leipzig 126.175
+AN Leipzig (HX-East) 134.460
 AH FL75
 AL 5500ft MSL
 DP 51:38:55 N 012:13:30 E
@@ -5176,7 +5169,7 @@ DP 51:36:08 N 012:18:19 E
 DP 51:38:55 N 012:13:30 E
 
 AC D
-AN Leipzig 126.175
+AN Leipzig (HX-East) 134.460
 AH FL75
 AL 5500ft MSL
 DP 51:21:22 N 012:54:17 E
@@ -5193,7 +5186,7 @@ DP 51:21:11 N 012:49:57 E
 DP 51:21:22 N 012:54:17 E
 
 AC D
-AN Leipzig 126.175
+AN Leipzig (HX-West) 134.460
 AH FL75
 AL 5500ft MSL
 DP 51:17:40 N 011:35:40 E 
@@ -5658,6 +5651,28 @@ DP 48:57:31 N 008:49:28 E
 DP 48:57:40 N 009:11:13 E
 DP 48:52:15 N 008:43:17 E
 
+*####### BEGIN AIRSPACE -ATZ- ########
+
+AC Q
+AN ATZ-low Cochstedt 131.125  NOTAM
+AH 1600ft MSL
+AL GND
+DP 51:52:51 N 011:13:32 E
+DP 51:55:33 N 011:33:01 E
+DP 51:49:42 N 011:35:07 E
+DP 51:47:00 N 011:15:40 E
+DP 51:52:51 N 011:13:32 E
+
+AC Q
+AN ATZ-high Cochstedt 131.125  NOTAM
+AH 3000ft MSL
+AL 1600ft MSL
+DP 51:52:51 N 011:13:32 E
+DP 51:55:33 N 011:33:01 E
+DP 51:49:42 N 011:35:07 E
+DP 51:47:00 N 011:15:40 E
+DP 51:52:51 N 011:13:32 E
+
 *####### BEGIN AIRSPACE -RMZ- ########
 
 AC RMZ
@@ -5679,6 +5694,16 @@ DP 51:05:01 N 012:32:12 E
 DP 51:01:12 N 012:39:32 E
 DP 50:52:48 N 012:28:34 E
 DP 50:56:36 N 012:21:15 E
+
+AC RMZ
+AN RMZ EDQA 123.440
+AH 1000ft AGL
+AL GND
+DP 50:01:13 N 010:55:57 E
+DP 49:57:39 N 011:03:25 E
+DP 49:49:16 N 010:53:50 E
+DP 49:52:49 N 010:46:22 E
+DP 50:01:13 N 010:55:57 E
 
 AC RMZ
 AN RMZ EDBH 118.080
@@ -5926,7 +5951,8 @@ DP 48:50:25 N 012:38:30 E
 DP 48:51:43 N 012:22:28 E 
 DP 48:57:40 N 012:23:34 E
 
-AC RMZ EDAY 118.735
+AC RMZ 
+AN RMZ EDAY 118.735
 AH 1000ft AGL
 AL GND
 DP 52:40:45 N 013:58:35 E
@@ -6094,7 +6120,7 @@ DP 50:58:33 N 012:57:36 E
 AC TMZ
 AN TMZ-EDDE HX A4410 126.175
 AH FL65
-AL 2500ft AGL
+AL 2500ft MSL
 DP 51:03:05 N 010:40:47 E
 DP 51:02:36 N 010:47:04 E
 DP 50:56:35 N 010:45:57 E
@@ -6104,7 +6130,7 @@ DP 51:03:05 N 010:40:47 E
 AC TMZ
 AN TMZ-EDDE HX A4410 126.175
 AH FL65
-AL 2500ft AGL
+AL 2500ft MSL
 DP 51:00:52 N 011:09:04 E
 DP 51:00:21 N 011:15:21 E
 DP 50:54:26 N 011:14:11 E
@@ -6114,7 +6140,7 @@ DP 51:00:52 N 011:09:04 E
 AC TMZ
 AN TMZ-EDDE HX A4410 126.175
 AH FL65
-AL 3500ft AGL
+AL 3500ft MSL
 DP 51:06:33 N 010:35:02 E
 DP 51:02:49 N 011:22:13 E
 DP 50:53:56 N 011:20:27 E
@@ -7704,7 +7730,7 @@ V D=+
 V X=48:41:19 N 009:12:39 E
 DB 48:42:51 N 009:56:14 E, 48:37:51 N 009:55:55 E
 DP 48:37:51 N 009:55:55 E
-DP 48:29:49 N 009:38:21 E
+DP 48:29:47 N 009:38:21 E
 DP 48:33:45 N 009:37:32 E
 
 AC W
@@ -8229,13 +8255,6 @@ AN PARA Bremgarten EDTG 124.030
 AH FL100
 AL GND
 V X=47:54:25 N 007:37:55 E
-DC 2.00
-
-AC Q
-AN PARA Brilon EDKO 129.380
-AH FL100
-AL GND
-V X=51:24:09 N 008:38:31 E
 DC 2.00
 
 AC Q
