@@ -1,28 +1,4 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-<!--
-*  Exported on: 08.02.2022
-*  This data is owned by Butterfly Avionics GmbH and licensed under the CC BY-NC-SA,
-*  not to be used for commercial purposes. For more information on commercial licensing visit
-*  
-*  http://www.openaip.net/commercial-licensing
-*  
-*  openAIP data is not certified and must not be used for primary navigation or flight planning.
-*  NEVER RELY ON OPENAIP DATA. openAIP data contains errors. Using openAIP data may
-*  result in serious injury or death, use at your own risk!
-*  
-*  OPENAIP OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND
-*  CONCERNING THE WORK, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION,
-*  WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR
-*  THE ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS,
-*  WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED
-*  WARRANTIES, SO THIS EXCLUSION MAY NOT APPLY TO YOU.
-*  
-*  EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL OPENAIP BE LIABLE TO YOU ON
-*  ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES
-*  ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF OPENAIP HAS BEEN ADVISED OF THE
-*  POSSIBILITY OF SUCH DAMAGES.
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <OPENAIP VERSION="1719191206222" DATAFORMAT="1.1"
 	xmlns="https://www.openaip.net"
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://www.openaip.net https://storage.googleapis.com/d644c13a-ed49-48ad-8493-d3e55d3281a5/assets/common/openaip-schema-v1.xsd">
