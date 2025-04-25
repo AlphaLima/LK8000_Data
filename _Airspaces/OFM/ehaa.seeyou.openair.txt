@@ -20,6 +20,14 @@
 *THIS FILE IS OPTIMIZED FOR USAGE WITH THE NAVITER - SEEYOU SOFTWARE
 * - STATIC AIRSPACE DATA *
 * - -----------------------------------------------------------------------------------
+
+AC R
+AN ED-R Doetinchen 26.04.25 05-18 Koningsdag
+AH 2500ft MSL
+AL GND
+V X=51:57:41 N 006:17:31 E
+DC 2.16
+
 AC A
 AN CTA AMSTERDAM CONTROL AREA EAST 1
 AH FL 195
